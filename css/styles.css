@@ -89,6 +89,14 @@ header li {
     display: inline-block
 }
 
+
+ul li {
+    color: #f5f7fa;
+}
+
+div h4 {
+    color: #f5f7fa;
+}
 header a {
     display: block;
     color: #3498db;
@@ -388,6 +396,10 @@ footer {
     color: #f5f7fa
 }
 
+#h4 {
+    color: #f5f7fa
+}
+
 #experience-timeline {
     margin: 30px auto 0 auto;
     position: relative;
@@ -575,14 +587,14 @@ footer {
     top: 50%;
     transform: translateY(-50%);
     margin-left: 300px;
-    padding: 15px
+    padding: 10px
 }
 
 .project-info h3 {
     font-size: 1.5em;
     font-weight: 300;
     color: #f5f7fa;
-    margin: 0 0 15px 0
+    margin: 0 0 10px 0
 }
 
 .project-info p {
